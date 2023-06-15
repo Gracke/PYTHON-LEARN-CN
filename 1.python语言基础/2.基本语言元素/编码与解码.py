@@ -7,7 +7,7 @@
 # 编码
 g = '数字是什么'
 code_GBK = g.encode('GBK')
-print(code_GBK)
+print(code_GBK)     # 'y'已编码成GBK
 code_UTF8 = g.encode('utf-8')
 print(code_UTF8)
 # 解码

@@ -30,7 +30,7 @@ re.match()方法: 用于从字符串的开始位置进行匹配
 import re
 pattern1 = r'\d\.\d{2}'
 str1 = 'I study python3.10 ever day'
-match1 =re.match(pattern1,str1,re.I)   # re.I不区分大小写
+match1 =re.match(pattern1,str1,re.I)   # 放回None
 print(match1)
 
 str2 = '3.10python is world'
