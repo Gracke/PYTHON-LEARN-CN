@@ -1,0 +1,15 @@
+bs4解析-html语法
+html-超文本标记语言
+
+<h1>i love you</h1>
+<h2 align="center">i don't love you</h2>
+
+# h1:标签
+# align：属性
+# center：属性值
+
+<标签/>
+<br/>
+<标签 属性="属性值">被标记的内容</标签>
+<img scr="xxx,jpg"/>
+<a href="http://ww.baidu.com">周杰伦</a>
